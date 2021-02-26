@@ -4,6 +4,9 @@
 
 * [Türkiye İstatistik Kurumu, İstatistik ve Coğrafi veri portalı](https://cip.tuik.gov.tr/)
 * [NASA data](https://data.giss.nasa.gov/)
+* [Bike Share data](https://www.bikeshare.com/data/)
+* [Hardvard dataverse](https://dataverse.harvard.edu/)
+
 
 ## Workshop, summer school related links
 
