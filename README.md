@@ -8,7 +8,7 @@
 * [Harvard dataverse](https://dataverse.harvard.edu/)
 * [Alternative Fuels Data Ceneter, US Department of Energy](https://afdc.energy.gov/data/?page=2) 
 * [Carbon Dioxide Information Analysis Center, US Department of Energy](https://cdiac.ess-dive.lbl.gov/land_use.html) 
-
+* [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas) (Go downwards Research Tab)
 
 ## Workshop, summer school related links
 
