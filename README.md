@@ -7,7 +7,7 @@
 * [Bike Share data](https://www.bikeshare.com/data/)
 * [Harvard dataverse](https://dataverse.harvard.edu/)
 * [Alternative Fuels Data Ceneter, US Department of Energy](https://afdc.energy.gov/data/?page=2) 
-* [Carbon Dioxide Information Analysis Center](https://cdiac.ess-dive.lbl.gov/land_use.html) 
+* [Carbon Dioxide Information Analysis Center, US Department of Energy](https://cdiac.ess-dive.lbl.gov/land_use.html) 
 
 
 ## Workshop, summer school related links
