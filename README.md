@@ -6,7 +6,9 @@
 * [NASA data](https://data.giss.nasa.gov/)
 * [Bike Share data](https://www.bikeshare.com/data/)
 * [Harvard dataverse](https://dataverse.harvard.edu/)
-* [US Department of Energy](https://afdc.energy.gov/data/?page=2) 
+* [Alternative Fuels Data Ceneter, US Department of Energy](https://afdc.energy.gov/data/?page=2) 
+* [Carbon Dioxide Information Analysis Center](https://cdiac.ess-dive.lbl.gov/land_use.html) 
+
 
 ## Workshop, summer school related links
 
