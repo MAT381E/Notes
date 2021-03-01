@@ -3,6 +3,8 @@
 ## Data related links
 
 * [Türkiye İstatistik Kurumu, İstatistik ve Coğrafi veri portalı](https://cip.tuik.gov.tr/)
+* [İBB Açık veri](https://data.ibb.gov.tr/)
+* [İzmir Belediyesi Açık veri](https://acikveri.bizizmir.com/)
 * [NASA data](https://data.giss.nasa.gov/)
 * [Bike Share data](https://www.bikeshare.com/data/)
 * [Harvard dataverse](https://dataverse.harvard.edu/)
