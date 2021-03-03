@@ -12,6 +12,11 @@
 * [Carbon Dioxide Information Analysis Center, US Department of Energy](https://cdiac.ess-dive.lbl.gov/land_use.html) 
 * [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas) (Go downwards Research Tab)
 * [Uber Movement](https://movement.uber.com/?lang=en-US)
+* [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
+* [US National Oceanic and Atmospheric Climate](https://www.climate.gov/maps-data)
+* [UK Urban Big Data Center](http://ubdc.gla.ac.uk/dataset)
+* [US Earth Data](https://earthdata.nasa.gov/)
+* 
 
 ## Workshop, summer school related links
 
