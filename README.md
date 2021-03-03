@@ -16,9 +16,14 @@
 * [US National Oceanic and Atmospheric Climate](https://www.climate.gov/maps-data)
 * [UK Urban Big Data Center](http://ubdc.gla.ac.uk/dataset)
 * [US Earth Data](https://earthdata.nasa.gov/)
-* 
+
 
 ## Workshop, summer school related links
 
 * [Center for Data and Computing Summer Lab at UC](https://cdac.uchicago.edu/engage/summerlab/#overview)
 * [Center for Humanitarian Data](https://centre.humdata.org/data-fellows/)
+
+
+## Real Life Applications to read and get idea
+
+* [United Nations Global Pulse](https://www.unglobalpulse.org/)
