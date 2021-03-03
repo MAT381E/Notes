@@ -24,6 +24,6 @@
 * [Center for Humanitarian Data](https://centre.humdata.org/data-fellows/)
 
 
-## Real Life Applications to read and get idea
+## Real Life applications to read and get idea
 
 * [United Nations Global Pulse](https://www.unglobalpulse.org/)
