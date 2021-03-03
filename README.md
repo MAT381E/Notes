@@ -34,5 +34,5 @@
 * [Michigan Institute for Data Science at University of Michigan](https://midas.umich.edu/)
 * [Network Science Institute at Northeastern University](https://www.networkscienceinstitute.org/)
 * [Berkley Data Science Institute](https://bids.berkeley.edu/)
-* [Center for Spatial and Textual Analysis](https://cesta.stanford.edu/)
+* [Center for Spatial and Textual Analysis at Standford University](https://cesta.stanford.edu/)
 * [Northeastern University Text, Maps, and Networks](https://web.northeastern.edu/nulab/)
