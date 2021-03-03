@@ -36,3 +36,4 @@
 * [Berkley Data Science Institute](https://bids.berkeley.edu/)
 * [Center for Spatial and Textual Analysis at Standford University](https://cesta.stanford.edu/)
 * [Northeastern University Text, Maps, and Networks](https://web.northeastern.edu/nulab/)
+* [UK Alan Turing Institute](https://www.turing.ac.uk/)
