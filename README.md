@@ -29,11 +29,15 @@
 * [United Nations Global Pulse](https://www.unglobalpulse.org/)
 
 
-## Data Science Institutions abroad
+## Data Science (Related) Institutions abroad
 
 * [Michigan Institute for Data Science at University of Michigan](https://midas.umich.edu/)
 * [Network Science Institute at Northeastern University](https://www.networkscienceinstitute.org/)
 * [Berkley Data Science Institute](https://bids.berkeley.edu/)
 * [Center for Spatial and Textual Analysis at Standford University](https://cesta.stanford.edu/)
 * [Northeastern University Text, Maps, and Networks](https://web.northeastern.edu/nulab/)
-* [UK Alan Turing Institute](https://www.turing.ac.uk/). 
+* [UK Alan Turing Institute](https://www.turing.ac.uk/)
+* [Center for Data and Computing at the University of Chicago](https://cdac.uchicago.edu/)
+* [Berkman Kein Center at Harvard University](https://cyber.harvard.edu/) 
+* [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org/urban-data/)
+* [Department of Network and Data Science at Central European University](https://www.ceu.edu/unit/dnds)
