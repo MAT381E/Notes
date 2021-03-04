@@ -27,7 +27,7 @@
 ## Real Life applications to read and get idea
 
 * [United Nations Global Pulse](https://www.unglobalpulse.org/)
-
+* [Open Data Institute](https://theodi.org/)
 
 ## Data Science (Related) Institutions abroad
 
