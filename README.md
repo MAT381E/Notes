@@ -16,7 +16,7 @@
 * [US National Oceanic and Atmospheric Climate](https://www.climate.gov/maps-data)
 * [UK Urban Big Data Center](http://ubdc.gla.ac.uk/dataset)
 * [US Earth Data](https://earthdata.nasa.gov/)
-* [Travel Time](https://traveltime.com/search/academic) (You should email them to ask for data)
+
 
 ## Workshop, summer school related links
 
