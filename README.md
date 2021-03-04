@@ -41,3 +41,4 @@
 * [Berkman Kein Center at Harvard University](https://cyber.harvard.edu/) 
 * [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org/urban-data/)
 * [Department of Network and Data Science at Central European University](https://www.ceu.edu/unit/dnds)
+* [eScience Institute at University of Washington](https://escience.washington.edu/)
