@@ -21,13 +21,13 @@
 ## Workshop, summer school related links
 
 * [Center for Data and Computing Summer Lab at UC](https://cdac.uchicago.edu/engage/summerlab/#overview)
-* [Center for Humanitarian Data](https://centre.humdata.org/data-fellows/)
-
 
 ## Real Life applications to read and get idea
 
 * [United Nations Global Pulse](https://www.unglobalpulse.org/)
 * [Open Data Institute](https://theodi.org/)
+* [Center for Humanitarian Data](https://centre.humdata.org)
+
 
 ## Data Science (Related) Institutions abroad
 
