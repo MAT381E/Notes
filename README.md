@@ -16,7 +16,7 @@
 * [US National Oceanic and Atmospheric Climate](https://www.climate.gov/maps-data)
 * [UK Urban Big Data Center](http://ubdc.gla.ac.uk/dataset)
 * [US Earth Data](https://earthdata.nasa.gov/)
-
+* [World Bank, Atlas of Social Protection Indicators](https://www.worldbank.org/en/data/datatopics/aspire?cid=pov_tt_poverty_en_ext)
 
 ## Workshop, summer school related links
 
